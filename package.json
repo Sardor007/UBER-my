@@ -1,0 +1,28 @@
+{
+  "name": "uber-my",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sardor007/UBER-my.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sardor007/UBER-my/issues"
+  },
+  "homepage": "https://github.com/Sardor007/UBER-my#readme",
+  "dependencies": {
+    "gulp-clean-css": "^4.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
